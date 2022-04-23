@@ -1,0 +1,145 @@
+2022-04-21 22:58:02 INFO  Reqres API Tests:29 - ************Displaying Resource list************
+2022-04-21 22:58:02 INFO  Reqres API Tests:31 - ************Checking status code returned************
+2022-04-21 22:58:02 INFO  Reqres API Tests:35 - ************Checking for specific record in response************
+2022-04-21 22:59:16 INFO  Reqres API Tests:29 - ************Displaying Resource list************
+2022-04-21 22:59:16 INFO  Reqres API Tests:31 - ************Checking status code returned************
+2022-04-21 22:59:16 INFO  Reqres API Tests:35 - ************Checking for specific record in response************
+2022-04-21 23:00:43 INFO  Reqres API Tests:29 - ************Displaying Resource list************
+2022-04-21 23:00:43 INFO  Reqres API Tests:31 - ************Checking status code returned************
+2022-04-21 23:00:43 INFO  Reqres API Tests:35 - ************Checking for specific record in response************
+2022-04-21 23:01:52 INFO  Reqres API Tests:29 - ************Displaying Resource list************
+2022-04-21 23:01:52 INFO  Reqres API Tests:31 - ************Checking status code returned************
+2022-04-21 23:01:52 INFO  Reqres API Tests:35 - ************Checking for specific record in response************
+2022-04-21 23:17:18 INFO  Reqres API Tests:33 - ************Displaying Resource list************
+2022-04-21 23:17:18 INFO  Reqres API Tests:35 - ************Checking status code returned************
+2022-04-21 23:17:18 INFO  Reqres API Tests:39 - ************Checking for specific record in response************
+2022-04-21 23:17:18 INFO  Reqres API Tests:43 - ************List Resource test is complete************
+2022-04-21 23:17:21 INFO  Reqres API Tests:68 - ************Verify Register Successful tests are complete************
+2022-04-21 23:17:23 INFO  Reqres API Tests:70 - ************Verify Login Successful tests are complete************
+2022-04-21 23:22:42 INFO  Reqres API Tests:71 - ************Verify Register Successful tests are complete************
+2022-04-21 23:23:03 INFO  Reqres API Tests:33 - ************Displaying Resource list************
+2022-04-21 23:23:03 INFO  Reqres API Tests:35 - ************Checking status code returned************
+2022-04-21 23:23:03 INFO  Reqres API Tests:39 - ************Checking for specific record in response************
+2022-04-21 23:23:03 INFO  Reqres API Tests:43 - ************List Resource test is complete************
+2022-04-21 23:23:26 INFO  Reqres API Tests:68 - ************Verify Login Successful tests are complete************
+2022-04-21 23:40:17 INFO  Reqres API Tests:33 - ************Displaying Resource list************
+2022-04-21 23:40:17 INFO  Reqres API Tests:35 - ************Checking status code returned************
+2022-04-21 23:40:17 INFO  Reqres API Tests:39 - ************Checking for specific record in response************
+2022-04-21 23:40:17 INFO  Reqres API Tests:43 - ************List Resource test is complete************
+2022-04-21 23:40:20 INFO  Reqres API Tests:68 - ************Verify Login Successful tests are complete************
+2022-04-21 23:40:22 INFO  Reqres API Tests:71 - ************Verify Register Successful tests are complete************
+2022-04-21 23:51:21 INFO  Reqres API Tests:33 - ************Displaying Resource list************
+2022-04-21 23:51:21 INFO  Reqres API Tests:35 - ************Checking status code returned************
+2022-04-21 23:51:21 INFO  Reqres API Tests:39 - ************Checking for specific record in response************
+2022-04-21 23:51:21 INFO  Reqres API Tests:43 - ************List Resource test is complete************
+2022-04-21 23:51:25 INFO  Reqres API Tests:68 - ************Verify Login Successful tests are complete************
+2022-04-21 23:51:26 INFO  Reqres API Tests:71 - ************Verify Register Successful tests are complete************
+2022-04-22 00:18:44 INFO  Reqres API Tests:35 - ************Displaying Resource list************
+2022-04-22 00:18:44 INFO  Reqres API Tests:37 - ************Checking status code returned************
+2022-04-22 00:18:44 INFO  Reqres API Tests:41 - ************Checking for specific record in response************
+2022-04-22 00:18:44 INFO  Reqres API Tests:45 - ************List Resource test is complete************
+2022-04-22 00:18:47 INFO  Reqres API Tests:69 - ************Verify Login Successful tests are complete************
+2022-04-22 00:18:48 INFO  Reqres API Tests:72 - ************Verify Register Successful tests are complete************
+2022-04-22 00:44:56 INFO  Reqres API Tests:68 - ************Verify Login Successful tests are complete************
+2022-04-22 00:44:57 INFO  Reqres API Tests:71 - ************Verify Register Successful tests are complete************
+2022-04-22 00:45:54 INFO  Reqres API Tests:69 - ************Verify Login Successful tests are complete************
+2022-04-22 00:45:56 INFO  Reqres API Tests:72 - ************Verify Register Successful tests are complete************
+2022-04-22 00:46:54 INFO  Reqres API Tests:69 - ************Verify Login Successful tests are complete************
+2022-04-22 00:48:51 INFO  Reqres API Tests:35 - ************Displaying Resource list************
+2022-04-22 00:48:51 INFO  Reqres API Tests:37 - ************Checking status code returned************
+2022-04-22 00:48:51 INFO  Reqres API Tests:41 - ************Checking for specific record in response************
+2022-04-22 00:48:51 INFO  Reqres API Tests:45 - ************List Resource test is complete************
+2022-04-22 00:48:54 INFO  Reqres API Tests:69 - ************Verify Login Successful tests are complete************
+2022-04-22 00:48:56 INFO  Reqres API Tests:72 - ************Verify Register Successful tests are complete************
+2022-04-22 00:49:30 INFO  Reqres API Tests:33 - ************Displaying Resource list************
+2022-04-22 00:49:30 INFO  Reqres API Tests:35 - ************Checking status code returned************
+2022-04-22 00:49:30 INFO  Reqres API Tests:39 - ************Checking for specific record in response************
+2022-04-22 00:49:30 INFO  Reqres API Tests:43 - ************List Resource test is complete************
+2022-04-22 00:49:33 INFO  Reqres API Tests:68 - ************Verify Login Successful tests are complete************
+2022-04-22 00:49:34 INFO  Reqres API Tests:71 - ************Verify Register Successful tests are complete************
+2022-04-22 00:50:25 INFO  Reqres API Tests:33 - ************Displaying Resource list************
+2022-04-22 00:50:25 INFO  Reqres API Tests:35 - ************Checking status code returned************
+2022-04-22 00:50:25 INFO  Reqres API Tests:39 - ************Checking for specific record in response************
+2022-04-22 00:50:25 INFO  Reqres API Tests:43 - ************List Resource test is complete************
+2022-04-22 00:50:28 INFO  Reqres API Tests:68 - ************Verify Login Successful tests are complete************
+2022-04-22 00:50:30 INFO  Reqres API Tests:71 - ************Verify Register Successful tests are complete************
+2022-04-22 15:39:13 INFO  Reqres API Tests:42 - ************Displaying Resource list************
+2022-04-22 15:39:13 INFO  Reqres API Tests:45 - ************Checking status code returned************
+2022-04-22 15:39:13 INFO  Reqres API Tests:49 - ************Checking for specific record in response************
+2022-04-22 15:39:13 INFO  Reqres API Tests:53 - ************List Resource test is complete************
+2022-04-22 16:27:42 INFO  Reqres API Tests:46 - ************Displaying Resource list************
+2022-04-22 16:34:17 INFO  Reqres API Tests:46 - ************Displaying Resource list************
+2022-04-22 16:36:20 INFO  Reqres API Tests:46 - ************Displaying Resource list************
+2022-04-22 16:38:54 INFO  Reqres API Tests:46 - ************Displaying Resource list************
+2022-04-22 16:40:56 INFO  Reqres API Tests:46 - ************Displaying Resource list************
+2022-04-22 16:42:14 INFO  Reqres API Tests:46 - ************Displaying Resource list************
+2022-04-22 16:44:04 INFO  Reqres API Tests:46 - ************Displaying Resource list************
+2022-04-22 16:44:04 INFO  Reqres API Tests:74 - ************Checking status code returned************
+2022-04-22 16:44:04 INFO  Reqres API Tests:78 - ************Checking for specific record in response************
+2022-04-22 16:44:04 INFO  Reqres API Tests:82 - ************List Resource test is complete************
+2022-04-22 16:45:09 INFO  Reqres API Tests:46 - ************Displaying Resource list************
+2022-04-22 16:45:09 INFO  Reqres API Tests:74 - ************Checking status code returned************
+2022-04-22 16:45:09 INFO  Reqres API Tests:78 - ************Checking for specific record in response************
+2022-04-22 16:45:09 INFO  Reqres API Tests:82 - ************List Resource test is complete************
+2022-04-22 16:45:57 INFO  Reqres API Tests:46 - ************Displaying Resource list************
+2022-04-22 16:45:57 INFO  Reqres API Tests:74 - ************Checking status code returned************
+2022-04-22 16:45:58 INFO  Reqres API Tests:78 - ************Checking for specific record in response************
+2022-04-22 16:45:58 INFO  Reqres API Tests:82 - ************List Resource test is complete************
+2022-04-22 16:48:25 INFO  Reqres API Tests:46 - ************Displaying Resource list************
+2022-04-22 16:48:25 INFO  Reqres API Tests:74 - ************Checking status code returned************
+2022-04-22 16:48:25 INFO  Reqres API Tests:78 - ************Checking for specific record in response************
+2022-04-22 16:48:25 INFO  Reqres API Tests:82 - ************List Resource test is complete************
+2022-04-22 16:50:16 INFO  Reqres API Tests:46 - ************Displaying Resource list************
+2022-04-22 16:50:16 INFO  Reqres API Tests:74 - ************Checking status code returned************
+2022-04-22 16:50:16 INFO  Reqres API Tests:78 - ************Checking for specific record in response************
+2022-04-22 16:50:16 INFO  Reqres API Tests:82 - ************List Resource test is complete************
+2022-04-22 16:51:48 INFO  Reqres API Tests:46 - ************Displaying Resource list************
+2022-04-22 16:56:35 INFO  Reqres API Tests:46 - ************Displaying Resource list************
+2022-04-22 16:57:05 INFO  Reqres API Tests:46 - ************Displaying Resource list************
+2022-04-22 16:58:12 INFO  Reqres API Tests:46 - ************Displaying Resource list************
+2022-04-22 17:07:00 INFO  Reqres API Tests:46 - ************Displaying Resource list************
+2022-04-22 17:10:41 INFO  Reqres API Tests:46 - ************Displaying Resource list************
+2022-04-22 17:10:41 INFO  Reqres API Tests:76 - ************Checking status code returned************
+2022-04-22 17:10:41 INFO  Reqres API Tests:80 - ************Checking for specific record in response************
+2022-04-22 17:10:41 INFO  Reqres API Tests:84 - ************List Resource test is complete************
+2022-04-22 17:11:08 INFO  Reqres API Tests:46 - ************Displaying Resource list************
+2022-04-22 17:16:50 INFO  Reqres API Tests:42 - ************Displaying Resource list************
+2022-04-22 17:16:50 INFO  Reqres API Tests:47 - ************Checking for specific record in response************
+2022-04-22 17:16:50 INFO  Reqres API Tests:75 - ************Checking status code returned************
+2022-04-22 17:16:50 INFO  Reqres API Tests:79 - ************List Resource test is complete************
+2022-04-22 17:17:37 INFO  Reqres API Tests:42 - ************Displaying Resource list************
+2022-04-22 17:17:37 INFO  Reqres API Tests:47 - ************Checking for specific record in response************
+2022-04-22 17:17:37 INFO  Reqres API Tests:75 - ************Checking status code returned************
+2022-04-22 17:17:37 INFO  Reqres API Tests:79 - ************List Resource test is complete************
+2022-04-22 17:18:04 INFO  Reqres API Tests:42 - ************Displaying Resource list************
+2022-04-22 17:18:04 INFO  Reqres API Tests:47 - ************Checking for specific record in response************
+2022-04-22 17:18:04 INFO  Reqres API Tests:75 - ************Checking status code returned************
+2022-04-22 17:18:04 INFO  Reqres API Tests:79 - ************List Resource test is complete************
+2022-04-22 17:22:12 INFO  Reqres API Tests:42 - ************Displaying Resource list************
+2022-04-22 17:22:12 INFO  Reqres API Tests:47 - ************Checking for specific record in response************
+2022-04-22 17:22:12 INFO  Reqres API Tests:78 - ************Checking status code returned************
+2022-04-22 17:22:12 INFO  Reqres API Tests:82 - ************List Resource test is complete************
+2022-04-22 17:23:15 INFO  Reqres API Tests:42 - ************Displaying Resource list************
+2022-04-22 17:23:15 INFO  Reqres API Tests:47 - ************Checking for specific record in response************
+2022-04-22 17:23:15 INFO  Reqres API Tests:78 - ************Checking status code returned************
+2022-04-22 17:23:15 INFO  Reqres API Tests:82 - ************List Resource test is complete************
+2022-04-23 13:54:30 INFO  Reqres API Tests:40 - ************Displaying Resource list************
+2022-04-23 13:54:31 INFO  Reqres API Tests:45 - ************Checking for specific resource(id+name combination) in response************
+2022-04-23 13:54:31 INFO  Reqres API Tests:76 - ************Checking status code returned************
+2022-04-23 13:54:31 INFO  Reqres API Tests:80 - ************List Resource test is complete************
+2022-04-23 13:55:24 INFO  Reqres API Tests:40 - ************Displaying Resource list************
+2022-04-23 13:55:24 INFO  Reqres API Tests:45 - ************Checking for specific resource(id+name combination) in response************
+2022-04-23 13:55:24 INFO  Reqres API Tests:76 - ************Checking status code returned************
+2022-04-23 13:55:24 INFO  Reqres API Tests:80 - ************List Resource test is complete************
+2022-04-23 14:00:14 INFO  Reqres API Tests:40 - ************Displaying Resource list************
+2022-04-23 14:00:14 INFO  Reqres API Tests:45 - ************Checking for specific resource(id+name combination) in response************
+2022-04-23 14:00:15 INFO  Reqres API Tests:76 - ************Checking status code returned************
+2022-04-23 14:00:15 INFO  Reqres API Tests:80 - ************List Resource test is complete************
+2022-04-23 14:00:21 INFO  Reqres API Tests:71 - ************Verify Register Successful tests are complete************
+2022-04-23 14:00:23 INFO  Reqres API Tests:68 - ************Verify Login Successful tests are complete************
+2022-04-23 14:12:16 INFO  Reqres API Tests:40 - ************Displaying Resource list************
+2022-04-23 14:12:16 INFO  Reqres API Tests:45 - ************Checking for specific resource(id+name combination) in response************
+2022-04-23 14:12:16 INFO  Reqres API Tests:76 - ************Checking status code returned************
+2022-04-23 14:12:16 INFO  Reqres API Tests:80 - ************List Resource test is complete************
+2022-04-23 14:12:20 INFO  Reqres API Tests:68 - ************Verify Login Successful tests are complete************
+2022-04-23 14:12:22 INFO  Reqres API Tests:71 - ************Verify Register Successful tests are complete************

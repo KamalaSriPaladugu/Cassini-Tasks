@@ -1,0 +1,145 @@
+2022-04-22 13:00:41 INFO  Selenium Tests:41 - ************Login Successful************
+2022-04-22 13:00:41 INFO  Selenium Tests:43 - ************Navigate to Finance tab************
+2022-04-22 13:00:46 INFO  Selenium Tests:45 - ************Navigation to Finance tab successful************
+2022-04-22 13:00:49 INFO  Selenium Tests:47 - ************Navigate to MarketData tab************
+2022-04-22 13:00:53 INFO  Selenium Tests:53 - ************Navigate to Calendar tab************
+2022-04-22 13:00:59 INFO  Selenium Tests:58 - ************Select Next in Calendar displayed************
+2022-04-22 13:01:03 INFO  Selenium Tests:62 - ************Get list of elements Displyed for 27th April Date************
+2022-04-22 13:01:03 INFO  Selenium Tests:78 - ************End of List************
+2022-04-22 13:01:03 INFO  Selenium Tests:80 - ************Signout from the account************
+2022-04-22 13:04:17 INFO  Selenium Tests:40 - ************Login Successful************
+2022-04-22 13:04:17 INFO  Selenium Tests:42 - ************Navigate to Finance tab************
+2022-04-22 13:04:22 INFO  Selenium Tests:44 - ************Navigation to Finance tab successful************
+2022-04-22 13:04:25 INFO  Selenium Tests:46 - ************Navigate to MarketData tab************
+2022-04-22 13:04:28 INFO  Selenium Tests:52 - ************Navigate to Calendar tab************
+2022-04-22 13:04:34 INFO  Selenium Tests:57 - ************Select Next in Calendar displayed************
+2022-04-22 13:04:38 INFO  Selenium Tests:61 - ************Get list of elements Displyed for 27th April Date************
+2022-04-22 13:04:38 INFO  Selenium Tests:77 - ************End of List************
+2022-04-22 13:04:38 INFO  Selenium Tests:79 - ************Signout from the account************
+2022-04-22 13:11:53 INFO  Selenium Tests:19 - ************New Test************
+2022-04-22 13:11:53 INFO  Selenium Tests:20 - ************Login to Yahoo.com************
+2022-04-22 13:12:14 INFO  Selenium Tests:43 - ************Login Successful************
+2022-04-22 13:12:17 INFO  Selenium Tests:47 - ************Navigation to Finance tab successful************
+2022-04-22 13:12:24 INFO  Selenium Tests:54 - ************Navigation to MarketData tab Successful************
+2022-04-22 13:12:29 INFO  Selenium Tests:60 - ************Navigation to Calendar tab Successful************
+2022-04-22 13:12:33 INFO  Selenium Tests:65 - ************Navigate to next in calendar************
+2022-04-22 13:12:33 INFO  Selenium Tests:67 - ************Get list of elements Displyed for 27th April Date************
+2022-04-22 13:12:33 INFO  Selenium Tests:83 - ************End of List************
+2022-04-22 13:12:47 INFO  Selenium Tests:103 - ************End of Test************
+2022-04-22 13:12:51 INFO  Selenium Tests:19 - ************New Test************
+2022-04-22 13:12:51 INFO  Selenium Tests:20 - ************Login to Yahoo.com************
+2022-04-22 13:13:01 INFO  Selenium Tests:34 - ************Login Not Successful************
+2022-04-22 13:13:01 INFO  Selenium Tests:103 - ************End of Test************
+2022-04-22 13:13:04 INFO  Selenium Tests:19 - ************New Test************
+2022-04-22 13:13:04 INFO  Selenium Tests:20 - ************Login to Yahoo.com************
+2022-04-22 13:13:15 INFO  Selenium Tests:34 - ************Login Not Successful************
+2022-04-22 13:13:15 INFO  Selenium Tests:103 - ************End of Test************
+2022-04-22 13:24:41 INFO  Selenium Tests:21 - ************New Test************
+2022-04-22 13:24:41 INFO  Selenium Tests:22 - ************Login to Yahoo.com************
+2022-04-22 13:25:01 INFO  Selenium Tests:45 - ************Login Successful************
+2022-04-22 13:25:05 INFO  Selenium Tests:49 - ************Navigation to Finance tab successful************
+2022-04-22 13:25:12 INFO  Selenium Tests:56 - ************Navigation to MarketData tab Successful************
+2022-04-22 13:25:17 INFO  Selenium Tests:62 - ************Navigation to Calendar tab Successful************
+2022-04-22 13:25:22 INFO  Selenium Tests:67 - ************Navigate to next in calendar************
+2022-04-22 13:25:22 INFO  Selenium Tests:69 - ************Get list of elements Displyed for 27th April Date************
+2022-04-22 13:25:22 INFO  Selenium Tests:85 - ************End of List************
+2022-04-22 13:25:37 INFO  Selenium Tests:21 - ************New Test************
+2022-04-22 13:25:37 INFO  Selenium Tests:22 - ************Login to Yahoo.com************
+2022-04-22 13:25:42 INFO  Selenium Tests:21 - ************New Test************
+2022-04-22 13:25:42 INFO  Selenium Tests:22 - ************Login to Yahoo.com************
+2022-04-22 13:27:31 INFO  Selenium Tests:21 - ************New Test************
+2022-04-22 13:27:31 INFO  Selenium Tests:22 - ************Login to Yahoo.com************
+2022-04-22 13:27:52 INFO  Selenium Tests:45 - ************Login Successful************
+2022-04-22 13:27:56 INFO  Selenium Tests:49 - ************Navigation to Finance tab successful************
+2022-04-22 13:28:02 INFO  Selenium Tests:56 - ************Navigation to MarketData tab Successful************
+2022-04-22 13:28:07 INFO  Selenium Tests:62 - ************Navigation to Calendar tab Successful************
+2022-04-22 13:28:12 INFO  Selenium Tests:67 - ************Navigate to next in calendar************
+2022-04-22 13:28:12 INFO  Selenium Tests:69 - ************Get list of elements Displyed for 27th April Date************
+2022-04-22 13:28:12 INFO  Selenium Tests:85 - ************End of List************
+2022-04-22 13:28:27 INFO  Selenium Tests:105 - ************End of Test************
+2022-04-22 13:28:31 INFO  Selenium Tests:21 - ************New Test************
+2022-04-22 13:28:31 INFO  Selenium Tests:22 - ************Login to Yahoo.com************
+2022-04-22 13:28:42 INFO  Selenium Tests:36 - ************Login Not Successful************
+2022-04-22 13:28:42 INFO  Selenium Tests:105 - ************End of Test************
+2022-04-22 13:28:43 INFO  Selenium Tests:21 - ************New Test************
+2022-04-22 13:28:43 INFO  Selenium Tests:22 - ************Login to Yahoo.com************
+2022-04-22 13:28:57 INFO  Selenium Tests:36 - ************Login Not Successful************
+2022-04-22 13:28:57 INFO  Selenium Tests:105 - ************End of Test************
+2022-04-22 13:46:31 INFO  Selenium Tests:21 - ************New Test************
+2022-04-22 13:46:31 INFO  Selenium Tests:22 - ************Login to Yahoo.com************
+2022-04-22 13:46:51 INFO  Selenium Tests:45 - ************Login Successful************
+2022-04-22 13:46:58 INFO  Selenium Tests:49 - ************Navigation to Finance tab successful************
+2022-04-22 13:47:04 INFO  Selenium Tests:56 - ************Navigation to MarketData tab Successful************
+2022-04-22 13:47:10 INFO  Selenium Tests:62 - ************Navigation to Calendar tab Successful************
+2022-04-22 13:47:14 INFO  Selenium Tests:67 - ************Navigate to next in calendar************
+2022-04-22 13:47:14 INFO  Selenium Tests:69 - ************Get list of elements Displyed for 27th April Date************
+2022-04-22 13:47:15 INFO  Selenium Tests:85 - ************End of List************
+2022-04-22 13:47:29 INFO  Selenium Tests:105 - ************End of Test************
+2022-04-22 13:47:35 INFO  Selenium Tests:21 - ************New Test************
+2022-04-22 13:47:35 INFO  Selenium Tests:22 - ************Login to Yahoo.com************
+2022-04-22 13:47:46 INFO  Selenium Tests:36 - ************Login Not Successful************
+2022-04-22 13:47:46 INFO  Selenium Tests:105 - ************End of Test************
+2022-04-22 13:47:47 INFO  Selenium Tests:21 - ************New Test************
+2022-04-22 13:47:47 INFO  Selenium Tests:22 - ************Login to Yahoo.com************
+2022-04-22 13:48:00 INFO  Selenium Tests:36 - ************Login Not Successful************
+2022-04-22 13:48:00 INFO  Selenium Tests:105 - ************End of Test************
+2022-04-22 15:07:08 INFO  Selenium Tests:20 - ************NEW TEST: Login to Yahoo.com************
+2022-04-22 15:08:17 INFO  Selenium Tests:43 - ************Login Successful************
+2022-04-22 15:08:24 INFO  Selenium Tests:47 - ************Navigation to Finance tab successful************
+2022-04-22 15:08:31 INFO  Selenium Tests:54 - ************Navigation to MarketData tab Successful************
+2022-04-22 15:09:00 INFO  Selenium Tests:60 - ************Navigation to Calendar tab Successful************
+2022-04-22 15:09:05 INFO  Selenium Tests:65 - ************Navigate to next in calendar************
+2022-04-22 15:09:05 INFO  Selenium Tests:67 - ************Get list of elements Displyed for 27th April Date************
+2022-04-22 15:09:05 INFO  Selenium Tests:83 - ************End of List************
+2022-04-22 15:09:36 INFO  Selenium Tests:103 - ************End of Test************
+2022-04-22 15:09:47 INFO  Selenium Tests:20 - ************NEW TEST: Login to Yahoo.com************
+2022-04-22 15:09:58 INFO  Selenium Tests:34 - ************Login Not Successful************
+2022-04-22 15:09:58 INFO  Selenium Tests:103 - ************End of Test************
+2022-04-22 15:10:00 INFO  Selenium Tests:20 - ************NEW TEST: Login to Yahoo.com************
+2022-04-22 15:10:16 INFO  Selenium Tests:34 - ************Login Not Successful************
+2022-04-22 15:10:16 INFO  Selenium Tests:103 - ************End of Test************
+2022-04-23 14:05:04 INFO  Selenium Tests:20 - ************NEW TEST: Login to Yahoo.com************
+2022-04-23 14:05:32 INFO  Selenium Tests:42 - ************Login Successful************
+2022-04-23 14:05:47 INFO  Selenium Tests:46 - ************Navigation to Finance tab successful************
+2022-04-23 14:05:53 INFO  Selenium Tests:53 - ************Navigation to MarketData tab Successful************
+2022-04-23 14:06:00 INFO  Selenium Tests:59 - ************Navigation to Calendar tab Successful************
+2022-04-23 14:06:05 INFO  Selenium Tests:64 - ************Navigate to next in calendar************
+2022-04-23 14:06:05 INFO  Selenium Tests:66 - ************Get list of elements Displyed for 27th April Date************
+2022-04-23 14:06:05 INFO  Selenium Tests:82 - ************End of List************
+2022-04-23 14:06:22 INFO  Selenium Tests:102 - ************End of Test************
+2022-04-23 14:06:27 INFO  Selenium Tests:20 - ************NEW TEST: Login to Yahoo.com************
+2022-04-23 14:06:38 INFO  Selenium Tests:33 - ************Login Not Successful************
+2022-04-23 14:06:38 INFO  Selenium Tests:102 - ************End of Test************
+2022-04-23 14:06:45 INFO  Selenium Tests:20 - ************NEW TEST: Login to Yahoo.com************
+2022-04-23 14:06:56 INFO  Selenium Tests:33 - ************Login Not Successful************
+2022-04-23 14:06:56 INFO  Selenium Tests:102 - ************End of Test************
+2022-04-23 14:08:02 INFO  Selenium Tests:20 - ************NEW TEST: Login to Yahoo.com************
+2022-04-23 14:08:34 INFO  Selenium Tests:42 - ************Login Successful************
+2022-04-23 14:08:50 INFO  Selenium Tests:46 - ************Navigation to Finance tab successful************
+2022-04-23 14:08:56 INFO  Selenium Tests:53 - ************Navigation to MarketData tab Successful************
+2022-04-23 14:09:19 INFO  Selenium Tests:59 - ************Navigation to Calendar tab Successful************
+2022-04-23 14:09:24 INFO  Selenium Tests:64 - ************Navigate to next in calendar************
+2022-04-23 14:09:24 INFO  Selenium Tests:66 - ************Get list of elements Displyed for 27th April Date************
+2022-04-23 14:09:25 INFO  Selenium Tests:82 - ************End of List************
+2022-04-23 14:09:43 INFO  Selenium Tests:102 - ************End of Test************
+2022-04-23 14:09:48 INFO  Selenium Tests:20 - ************NEW TEST: Login to Yahoo.com************
+2022-04-23 14:10:00 INFO  Selenium Tests:33 - ************Login Not Successful************
+2022-04-23 14:10:00 INFO  Selenium Tests:102 - ************End of Test************
+2022-04-23 14:10:01 INFO  Selenium Tests:20 - ************NEW TEST: Login to Yahoo.com************
+2022-04-23 14:10:16 INFO  Selenium Tests:33 - ************Login Not Successful************
+2022-04-23 14:10:16 INFO  Selenium Tests:102 - ************End of Test************
+2022-04-23 14:12:48 INFO  Selenium Tests:20 - ************NEW TEST: Login to Yahoo.com************
+2022-04-23 14:13:21 INFO  Selenium Tests:42 - ************Login Successful************
+2022-04-23 14:13:26 INFO  Selenium Tests:46 - ************Navigation to Finance tab successful************
+2022-04-23 14:13:32 INFO  Selenium Tests:53 - ************Navigation to MarketData tab Successful************
+2022-04-23 14:13:54 INFO  Selenium Tests:59 - ************Navigation to Calendar tab Successful************
+2022-04-23 14:13:58 INFO  Selenium Tests:64 - ************Navigate to next in calendar************
+2022-04-23 14:13:58 INFO  Selenium Tests:66 - ************Get list of elements Displyed for 27th April Date************
+2022-04-23 14:13:58 INFO  Selenium Tests:82 - ************End of List************
+2022-04-23 14:14:12 INFO  Selenium Tests:102 - ************End of Test************
+2022-04-23 14:14:17 INFO  Selenium Tests:20 - ************NEW TEST: Login to Yahoo.com************
+2022-04-23 14:14:29 INFO  Selenium Tests:33 - ************Login Not Successful************
+2022-04-23 14:14:29 INFO  Selenium Tests:102 - ************End of Test************
+2022-04-23 14:14:37 INFO  Selenium Tests:20 - ************NEW TEST: Login to Yahoo.com************
+2022-04-23 14:14:50 INFO  Selenium Tests:33 - ************Login Not Successful************
+2022-04-23 14:14:50 INFO  Selenium Tests:102 - ************End of Test************

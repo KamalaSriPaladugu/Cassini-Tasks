@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ReqresAPISuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="ReqresAPITests(failed)">
+    <classes>
+      <class name="com.restAssured.Task1Tests.Scen_RegisterSuccessful">
+        <methods>
+          <include name="tearDown"/>
+          <include name="checkRegisterSuccessful" invocation-numbers="0 1 2 3"/>
+          <include name="setup"/>
+          <include name="getdata"/>
+        </methods>
+      </class> <!-- com.restAssured.Task1Tests.Scen_RegisterSuccessful -->
+      <class name="com.restAssured.Task1Tests.Scen_ListResource">
+        <methods>
+          <include name="getListOfResource"/>
+          <include name="validateResponse"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.restAssured.Task1Tests.Scen_ListResource -->
+      <class name="com.restAssured.Task1Tests.Scen_LoginSuccessful">
+        <methods>
+          <include name="getdata"/>
+          <include name="tearDown"/>
+          <include name="loginRequest" invocation-numbers="0 1 2 3"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.restAssured.Task1Tests.Scen_LoginSuccessful -->
+    </classes>
+  </test> <!-- ReqresAPITests(failed) -->
+</suite> <!-- Failed suite [ReqresAPISuite] -->

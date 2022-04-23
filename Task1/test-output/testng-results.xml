@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-23T14:12:13 BST" name="ReqresAPISuite" finished-at="2022-04-23T14:12:22 BST" duration-ms="8930">
+    <groups>
+    </groups>
+    <test started-at="2022-04-23T14:12:13 BST" name="ReqresAPITests" finished-at="2022-04-23T14:12:22 BST" duration-ms="8930">
+      <class name="com.restAssured.Task1Tests.Scen_ListResource">
+        <test-method is-config="true" signature="getListOfResource()[pri:0, instance:com.restAssured.Task1Tests.Scen_ListResource@55b7a4e0]" started-at="2022-04-23T14:12:13 BST" name="getListOfResource" finished-at="2022-04-23T14:12:14 BST" duration-ms="945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getListOfResource -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.restAssured.Task1Tests.Scen_ListResource@55b7a4e0]" started-at="2022-04-23T14:12:14 BST" name="setup" finished-at="2022-04-23T14:12:14 BST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateResponse()[pri:0, instance:com.restAssured.Task1Tests.Scen_ListResource@55b7a4e0]" started-at="2022-04-23T14:12:14 BST" name="validateResponse" finished-at="2022-04-23T14:12:16 BST" duration-ms="1806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponse -->
+        <test-method signature="validateStatusCode()[pri:0, instance:com.restAssured.Task1Tests.Scen_ListResource@55b7a4e0]" started-at="2022-04-23T14:12:16 BST" name="validateStatusCode" finished-at="2022-04-23T14:12:16 BST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatusCode -->
+      </class> <!-- com.restAssured.Task1Tests.Scen_ListResource -->
+      <class name="com.restAssured.Task1Tests.Scen_RegisterSuccessful">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.restAssured.Task1Tests.Scen_RegisterSuccessful@7fa98a66]" started-at="2022-04-23T14:12:20 BST" name="setup" finished-at="2022-04-23T14:12:20 BST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="getdata()[pri:0, instance:com.restAssured.Task1Tests.Scen_RegisterSuccessful@7fa98a66]" started-at="2022-04-23T14:12:20 BST" name="getdata" finished-at="2022-04-23T14:12:21 BST" duration-ms="502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata -->
+        <test-method signature="checkRegisterSuccessful(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.Task1Tests.Scen_RegisterSuccessful@7fa98a66]" started-at="2022-04-23T14:12:21 BST" name="checkRegisterSuccessful" data-provider="RegisteredData" finished-at="2022-04-23T14:12:21 BST" duration-ms="187" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[eve.holt@reqres.in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cityslicka]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[QpwL5tke4Pnpja7X4]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRegisterSuccessful -->
+        <test-method signature="checkRegisterSuccessful(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.Task1Tests.Scen_RegisterSuccessful@7fa98a66]" started-at="2022-04-23T14:12:21 BST" name="checkRegisterSuccessful" data-provider="RegisteredData" finished-at="2022-04-23T14:12:22 BST" duration-ms="212" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xyzzz]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cityslicka]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Note: Only defined users succeed registration]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[400]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRegisterSuccessful -->
+        <test-method signature="checkRegisterSuccessful(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.Task1Tests.Scen_RegisterSuccessful@7fa98a66]" started-at="2022-04-23T14:12:22 BST" name="checkRegisterSuccessful" data-provider="RegisteredData" finished-at="2022-04-23T14:12:22 BST" duration-ms="226" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cityslicka]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Missing email or username]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[400]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRegisterSuccessful -->
+        <test-method signature="checkRegisterSuccessful(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.Task1Tests.Scen_RegisterSuccessful@7fa98a66]" started-at="2022-04-23T14:12:22 BST" name="checkRegisterSuccessful" data-provider="RegisteredData" finished-at="2022-04-23T14:12:22 BST" duration-ms="185" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[eve.holt@reqres.in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Missing password]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[400]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRegisterSuccessful -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restAssured.Task1Tests.Scen_RegisterSuccessful@7fa98a66]" started-at="2022-04-23T14:12:22 BST" name="tearDown" finished-at="2022-04-23T14:12:22 BST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.restAssured.Task1Tests.Scen_RegisterSuccessful -->
+      <class name="com.restAssured.Task1Tests.Scen_LoginSuccessful">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.restAssured.Task1Tests.Scen_LoginSuccessful@62150f9e]" started-at="2022-04-23T14:12:16 BST" name="setup" finished-at="2022-04-23T14:12:16 BST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="getdata()[pri:0, instance:com.restAssured.Task1Tests.Scen_LoginSuccessful@62150f9e]" started-at="2022-04-23T14:12:16 BST" name="getdata" finished-at="2022-04-23T14:12:19 BST" duration-ms="2742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdata -->
+        <test-method signature="loginRequest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.Task1Tests.Scen_LoginSuccessful@62150f9e]" started-at="2022-04-23T14:12:19 BST" name="loginRequest" data-provider="LoginData" finished-at="2022-04-23T14:12:20 BST" duration-ms="307" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[eve.holt@reqres.in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cityslicka]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[QpwL5tke4Pnpja7X4]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginRequest -->
+        <test-method signature="loginRequest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.Task1Tests.Scen_LoginSuccessful@62150f9e]" started-at="2022-04-23T14:12:20 BST" name="loginRequest" data-provider="LoginData" finished-at="2022-04-23T14:12:20 BST" duration-ms="214" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[xyzzz]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cityslicka]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[user not found]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[400]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginRequest -->
+        <test-method signature="loginRequest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.Task1Tests.Scen_LoginSuccessful@62150f9e]" started-at="2022-04-23T14:12:20 BST" name="loginRequest" data-provider="LoginData" finished-at="2022-04-23T14:12:20 BST" duration-ms="193" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[cityslicka]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Missing email or username]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[400]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginRequest -->
+        <test-method signature="loginRequest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.restAssured.Task1Tests.Scen_LoginSuccessful@62150f9e]" started-at="2022-04-23T14:12:20 BST" name="loginRequest" data-provider="LoginData" finished-at="2022-04-23T14:12:20 BST" duration-ms="229" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[eve.holt@reqres.in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Missing password]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[400]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginRequest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.restAssured.Task1Tests.Scen_LoginSuccessful@62150f9e]" started-at="2022-04-23T14:12:20 BST" name="tearDown" finished-at="2022-04-23T14:12:20 BST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.restAssured.Task1Tests.Scen_LoginSuccessful -->
+    </test> <!-- ReqresAPITests -->
+  </suite> <!-- ReqresAPISuite -->
+</testng-results>
